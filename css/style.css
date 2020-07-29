@@ -410,7 +410,7 @@ div[class^='bar-'] {
 /* Start barnd Area*/
 
 .site-main .brand-area{
-    padding: 5rem; /*change if req*/
+    padding: 3rem; /*change if req*/
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
